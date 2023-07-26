@@ -21,3 +21,16 @@
 
     **3. Identify Potential Business Expansion Opportunities:** By analyzing sales data across different regions and countries, we can pinpoint promising markets for potential business expansion, enabling companies to strategically allocate resources for growth.
 
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mannemchand/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/mannemchand/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/mannemchand/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
+- **Purpose:** The purpose of this sales analytics report is to conduct a comprehensive evaluation of financial performance, support effective decision-making processes, and facilitate seamless communication with stakeholders. By analyzing sales data from various angles, we aim to provide valuable insights that drive business growth and success.
+
+- **Importance:** Analyzing finance data is crucial for businesses to gain a deeper understanding of their financial performance. It serves as a foundation for benchmarking against industry peers and previous periods, enabling organizations to identify areas for improvement and make informed decisions. Additionally, finance analytics plays a key role in budgeting and forecasting, allowing businesses to set realistic goals and plan for the future strategically.
+
+- **Role of reports:** The reports generated through our finance analytics process play a pivotal role in aligning financial planning with strategic goals. By presenting data-driven insights in a clear and concise manner, these reports instill confidence in the organization's financial outlook. They help stakeholders understand the business's financial health and empower them to take actions that contribute to sustainable growth.
